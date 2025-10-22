@@ -1,0 +1,246 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Dokumentasi API",
+        "description": "API Documentation",
+        "contact": {
+            "email": "ekoabdulgoffar129@gmail.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://localhost/api-swagger-laravel/api/v1",
+            "description": "API Documentation"
+        }
+    ],
+    "paths": {
+        "/mahasiswa": {
+            "get": {
+                "tags": [
+                    "Mahasiswa"
+                ],
+                "summary": "Mahasiswa - Get All",
+                "description": "Mengambil Data Mahasiswa",
+                "operationId": "listNotifikasi",
+                "responses": {
+                    "200": {
+                        "description": "Ok",
+                        "content": {
+                            "application/json": {
+                                "schema": {},
+                                "example": {
+                                    "success": true,
+                                    "message": "Berhasil mengambil Data Mahasiswa",
+                                    "data": [
+                                        {
+                                            "mhs_nim": "0320230010",
+                                            "mhs_nama": "Eko Abdul Goffar"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/mahasiswa/{id}": {
+            "get": {
+                "tags": [
+                    "Mahasiswa"
+                ],
+                "summary": "Mahasiswa - Get By ID",
+                "description": "Mengambil Data Mahasiswa Berdasarkan ID",
+                "operationId": "listMahasiswaById",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "description": "Masukan ID",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "default": "1"
+                        },
+                        "example": "1"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Ok",
+                        "content": {
+                            "application/json": {
+                                "schema": {},
+                                "example": {
+                                    "success": true,
+                                    "message": "Berhasil mengambil Data Mahasiswa ",
+                                    "data": [
+                                        {
+                                            "mhs_nim": "0320230010",
+                                            "mhs_nama": "Eko Abdul Goffar"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/mahasiswa/create": {
+            "post": {
+                "tags": [
+                    "Mahasiswa"
+                ],
+                "summary": "Mahasiswa - Insert",
+                "description": "Post data Mahasiswa",
+                "operationId": "insertMahasiswa",
+                "requestBody": {
+                    "description": "Request Body Description",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {},
+                            "example": {
+                                "mhs_nim": "0320230012",
+                                "mhs_nama": "Roni"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Ok",
+                        "content": {
+                            "application/json": {
+                                "schema": {},
+                                "example": {
+                                    "success": true,
+                                    "message": "Data berhasil disimpan"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/mahasiswa/update": {
+            "put": {
+                "tags": [
+                    "Mahasiswa"
+                ],
+                "summary": "Mahasiswa - Update",
+                "description": "Update data Mahasiswa",
+                "operationId": "updateMahasiswa",
+                "requestBody": {
+                    "description": "Request Body Description",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {},
+                            "example": {
+                                "mhs_nim": "0320230012",
+                                "mhs_nama": "Roni S"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Ok",
+                        "content": {
+                            "application/json": {
+                                "schema": {},
+                                "example": {
+                                    "success": true,
+                                    "message": "Data berhasil diubah"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/mahasiswa/delete": {
+            "delete": {
+                "tags": [
+                    "Mahasiswa"
+                ],
+                "summary": "Mahasiswa - Delete",
+                "description": "Delete data Mahasiswa",
+                "operationId": "deleteMahasiswa",
+                "requestBody": {
+                    "description": "Request Body Description",
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {},
+                            "example": {
+                                "mhs_nim": "0320230012"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Ok",
+                        "content": {
+                            "application/json": {
+                                "schema": {},
+                                "example": {
+                                    "success": true,
+                                    "message": "Data berhasil dihapus"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        }
+    },
+    "components": {
+        "securitySchemes": {
+            "bearerAuth": {
+                "type": "http",
+                "description": "Enter token",
+                "scheme": "bearer"
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Mahasiswa",
+            "description": "Mahasiswa"
+        }
+    ]
+}
